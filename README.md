@@ -6,3 +6,8 @@
       3.  Program to Add Two Integers
       4.  Program to Multiply two Floating Point Numbers
       5.  Program to Find ASCII Value of a Character
+      6.  Program to Compute Quotient and Remainder
+      7.  Program to Find the Size of int, float, double and char
+      8.  Program to Demonstrate the Working of Keyword long
+      9.  Program to Swap Two Numbers
+      10. Program to Check Whether a Number is Even or Odd
