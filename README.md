@@ -20,3 +20,7 @@
       17. Program to Calculate the Sum of Natural Numbers
       18. Program to Find Factorial of a Number
       19. Program to Generate Multiplication Table
+      20. Program to Display Fibonacci Sequence
+      21. Program to Find GCD of two Numbers
+      22. Program to Find LCM of two Numbers
+      23. Program to Display Characters from A to Z Using Loop
