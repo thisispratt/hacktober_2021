@@ -16,3 +16,7 @@
       13. Program to Find all Roots of a Quadratic Equation
       14. Program to Check Leap Year
       15. Program to Check Whether a Number is Positive or Negative
+      16. Program to Check Whether a Character is an Alphabet or not
+      17. Program to Calculate the Sum of Natural Numbers
+      18. Program to Find Factorial of a Number
+      19. Program to Generate Multiplication Table
