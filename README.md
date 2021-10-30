@@ -28,3 +28,7 @@
       25. Program to Reverse a Number
       26. Program to Calculate the Power of a Number
       27. Program to Check Whether a Number is Palindrome or Not
+      28. Program to Check Whether a Number is Prime or Not
+      29. Program to Check Armstrong Number
+      30. Program to Display Factors of a Number
+      31. Program to Make a Simple Calculator Using switch...case
