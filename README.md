@@ -32,3 +32,7 @@
       29. Program to Check Armstrong Number
       30. Program to Display Factors of a Number
       31. Program to Make a Simple Calculator Using switch...case
+      32. Program to Display Prime Numbers Between Intervals Using Function
+      33. Program to Check Prime or Armstrong Number Using User-defined Function
+      34. Program to Check Whether a Number can be Expressed as Sum of Two Prime Numbers
+      35. Program to Find the Sum of Natural Numbers using Recursion
