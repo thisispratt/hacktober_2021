@@ -24,3 +24,7 @@
       21. Program to Find GCD of two Numbers
       22. Program to Find LCM of two Numbers
       23. Program to Display Characters from A to Z Using Loop
+      24. Program to Count Number of Digits in an Integer
+      25. Program to Reverse a Number
+      26. Program to Calculate the Power of a Number
+      27. Program to Check Whether a Number is Palindrome or Not
